@@ -43,8 +43,8 @@
 
 ---
 
-### 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-link)  
-[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/your-handle)  
-[![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github)](https://github.com/tiwary1722)  
+## Connect with me 🌐  
+
+- [LinkedIn](https://www.linkedin.com/in/siddharth-shankar-0aaa7965)  
+- [GitHub](https://github.com/tiwary1722)  
 # tiwary1722-tiwary1722
