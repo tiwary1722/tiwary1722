@@ -1,40 +1,33 @@
 <h1 align="center">👋 Hi, I'm Siddharth Tiwary</h1>
-<h3 align="center">🚀 DevOps Enthusiast | Cloud Explorer</h3>
-
----
-
-### ✨ About Me  
-☁ Exploring **Azure, AWS & Kubernetes**  
-⚡ Passionate about **Cloud + CI/CD + Terraform**  
-📚 Always learning & sharing knowledge  
-
----
-
-### 🛠️ Tech Stack
-- **Languages**: Python, Bash, JavaScript  
-- **DevOps**: Docker, Kubernetes, Terraform, GitHub Actions, Azure DevOps  
-- **Cloud**: Azure ☁ | AWS ☁  
-
----
-
-### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tiwary1722&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tiwary1722&theme=tokyonight" height="160"/>
+ 🚀 DevOps Enthusiast | ☁️ Cloud Explorer | 🔧 Backend Developer  
 </p>
 
 ---
 
-### 📈 Most Used Languages  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiwary1722&layout=compact&theme=tokyonight" height="150"/>
-</p>
+## 🌟 About Me
+- 🌐 Exploring **Azure, AWS & Kubernetes**
+- ⚡ Passionate about **Cloud + CI/CD + Terraform**
+- 📚 Always learning & sharing knowledge  
+- 🎯 Open to **internships** in DevOps, Cloud & ML/AI  
 
 ---
 
-### 🔥 Fun Widgets
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00F700&center=true&vCenter=true&width=500&lines=DevOps+Engineer+%7C+Cloud+Explorer;Terraform+%7C+Kubernetes+%7C+Docker;Always+Learning+%26+Building" />
+## 🛠️ Tech Stack
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+- 🔹 [**Todo**]()
+
 </p>
 
 <p align="center">
