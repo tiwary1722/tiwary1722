@@ -33,9 +33,8 @@ I'm **Siddharth Shankar** 🚀
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/your-profile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/siddharth-shankar-0aaa7965)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/tiwary1722)
 
 ---
 ✨ *This profile is under active development — stay tuned for more projects!* ✨
-
