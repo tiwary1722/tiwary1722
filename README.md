@@ -1,43 +1,41 @@
-<h1 align="center">👋 Hi, I'm Siddharth Tiwary</h1>
-<p align="center">
- 🚀 DevOps Enthusiast | ☁️ Cloud Explorer | 🔧 Backend Developer  
-</p>
+# Hello Dosto 👋  
+I'm **Siddharth Shankar** 🚀  
+
+🔹 DevOps | Cloud | Kubernetes | Terraform | Azure  
+🔹 Passionate about building **production-ready applications** and **scalable cloud infrastructure**  
 
 ---
 
-## 🌟 About Me
-- 🌐 Exploring **Azure, AWS & Kubernetes**
-- ⚡ Passionate about **Cloud + CI/CD + Terraform**
-- 📚 Always learning & sharing knowledge  
-- 🎯 Open to **internships** in DevOps, Cloud & ML/AI  
+## 🚀 About Me
+- 🌐 Currently working on **Cloud-Native Solutions & DevOps Automation**  
+- 📚 Always learning about **emerging technologies** and best practices  
+- 🤝 Looking to collaborate on **Open Source Projects** & **DevOps Initiatives**  
+- 💬 Ask me about **Terraform, Kubernetes, Azure, GitHub Actions**  
+- ⚡ Fun fact: I enjoy **sharing knowledge** and helping others in DevOps journey  
 
 ---
 
-## 🛠️ Tech Stack
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+## 🛠 Tech Stack
+- ☁️ **Cloud**: Azure, AWS, Minikube  
+- ⚙️ **DevOps Tools**: Docker, Kubernetes, Helm, Terraform, Ansible  
+- 🔧 **CI/CD**: GitHub Actions, Jenkins, Azure DevOps  
+- 💻 **Languages**: Python, Bash, YAML, HCL  
 
 ---
 
-## 🚀 Featured Projects
-- 🔹 [**Todo**]()
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tiwary1722&show_icons=true&theme=radical)
 
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tiwary1722&layout=compact&theme=radical)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tiwary1722&label=Profile%20Views&color=blue&style=flat" alt="profile views"/>
-</p>
+![Visitor Count](https://komarev.com/ghpvc/?username=tiwary1722&color=blue)
 
 ---
 
-## Connect with me 🌐  
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/your-profile)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/tiwary1722)
 
-- [LinkedIn](https://www.linkedin.com/in/siddharth-shankar-0aaa7965)  
-- [GitHub](https://github.com/tiwary1722)  
-# tiwary1722-tiwary1722
+---
+✨ *This profile is under active development — stay tuned for more projects!* ✨
+
